@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nokompass/nokompass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm nokompass.
 
-Here are some ideas to get you started:
+# A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I love sports
+  - 🏈 Seattle Seahawks
+  - ⚽ Chelsea FC
+  - 
+- I love esports
+  - Complexity (Rocket League)
+  - Sentinels (VALORANT & Halo)
+
+# My current projects:
