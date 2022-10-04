@@ -11,8 +11,6 @@
 - I love esports
   - Complexity (Rocket League)
   - Sentinels (VALORANT & Halo)
-  
-- I enjoy EDM music and DJ sometimes :)
 
 ### My current projects:
 
